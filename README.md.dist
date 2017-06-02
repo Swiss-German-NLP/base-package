@@ -1,0 +1,33 @@
+{Packagename}
+=============
+
+This package was provided by {Resource owner} under the {License} license.
+
+More information about the license, see {License}.
+
+
+# How to get the resource
+
+[//]: <> (Some resources might require to sign-up to a service or similar, please include a guide here and what circumstances have to be met to be able to sign-up.)
+
+
+# Building
+
+Here is how to build this package.
+
+## wordlist:
+
+`python __main__.py --build=wordlist`
+
+## POS
+
+`python __main__.py --build=pos`
+
+## NER
+
+`python __main__.py --build=ner`
+
+
+# Author/Contributors
+
+[//]: <> (List all contributors that helped with that package here.)
